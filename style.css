@@ -1,0 +1,1288 @@
+.parent-div {
+  width: 1300px;
+  height: 10778px;
+  overflow: hidden;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.node-319139 {
+  position: absolute;
+  width: 1300px;
+  height: 10778px;
+  top: 0px;
+  left: 0px;
+  opacity: 1;
+  z-index: 6;
+  transform: rotate(0deg);
+  overflow: hidden;
+  border-radius: 0px 0px 0px 0px;
+  background: linear-gradient(
+    180deg,
+    #0711ffff 0%,
+    #5707ffff 14%,
+    #a30cffff 100%
+  );
+}
+.nodeBg-319144 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: transparent;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url("https://s3-alpha-sig.figma.com/img/401c/06fc/b5f2c15398c3fde55b9413c1e88e07de?Expires=1704672000&Signature=SEqRoxrv9sHwVt8l8h3J7QkbCqyDLCgWn2WVLuE3XPq-NcOR9TfpuKDmOFa2DlfycX0T1YZpXRV~phIPP4UrAEVZCF6pm0mvX5vZE9DOT4oqXPgpCU-tIFMNZZHivNtY40DQ3pJK987JRidB8EKmdrQETZsbo~u-qhH5LNcMgwKFoUsIKcI0Uz40vHXtNR90AEN1dh0HkRyuZ5d1sR8sKSPJZ72cPkBHH4T9uwABbeGXRNLmSq-IiiQyrMUzTZvjEA0Gz7AXPfvcGfIR78lAAULToNp16QNvSGEOI-vFz7ZlAdak1MVZBwG0XseH5NM4neSxF3I2-JootyjJ-j0bOg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
+  opacity: 1;
+}
+.node-319144 {
+  position: absolute;
+  width: 1123px;
+  height: 599px;
+  top: 787px;
+  left: 89px;
+  opacity: 1;
+  z-index: 4;
+  transform: rotate(0deg);
+  overflow: hidden;
+  border-radius: 48px 48px 48px 48px;
+}
+.node-319152 {
+  position: absolute;
+  width: 475px;
+  height: 163px;
+  top: 1848px;
+  left: 413px;
+  opacity: 1;
+  z-index: 7;
+  transform: rotate(0deg);
+  border-radius: 80px 80px 80px 80px;
+  background: linear-gradient(180deg, #00b1e9ff 0%, #00b1e900 100%);
+}
+.nodeBg-319153 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: transparent;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url("https://s3-alpha-sig.figma.com/img/e87b/fb4c/1e588c032e9b4521864905089a6c583a?Expires=1704672000&Signature=Oywg3~cMGg1~gL28Sm7n0qU8rBrxa8lS1q6sxDNZy~6a1LHouZ9NWatHd5MWGLHCsFlPeuBuuRQDo1LiBbWWbmG2fG8Pp~ttvnc1VoJR8CjHxP9ZfyRbWU1~lY-IaX9cGHhZK5hh1hR9xy-vXQaMRNU3oq29okOSOb4D6lo8i~x1esUR7AUkDFrXjFaQjPnfNdldRiT5UrIx1-55JDpxGFXHhPgO5DUcM1gR5BkmY7pbHvywCWrTDfAekbyAGCqMIfXV0Afy~b0nch2aH6LJ7V2cUUvQgmHBsgoejBK0hVJfbtMN1w74P-VUoldjfplBejV2EIydyA0lu-JqxqYg2Q__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
+  opacity: 1;
+}
+.node-319153 {
+  position: absolute;
+  width: 107px;
+  height: 99px;
+  top: 1887px;
+  left: 700px;
+  opacity: 1;
+  z-index: 8;
+  transform: rotate(0deg);
+  overflow: hidden;
+  border-radius: 0px 0px 0px 0px;
+}
+.nodeBg-319154 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: transparent;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url("https://s3-alpha-sig.figma.com/img/ef0b/b374/19ef22c15bb1593d0f2622badeaf9940?Expires=1704672000&Signature=pCFq5kJ~hLsGQzn1mzv5zO3GbDIbCUakTwxn8LVlfjBe4xHHAPILRdEBvt8kfmHwPupuDccckih~wPUAoX01pyBWGKiLYWb-wwUYaLLQeZRr3iio9RJmfWzJ0Rr6HiEPLWHUc5YDpS0z2YmSnFjmEPQjPNnpBx3pM1jmW4QDCS4DjdjfzM2bIPz9dkrevHAE1rd-z2nL0nv0c4BWccMTmKb3wp5KK6MtdBr3nOutryC2l1en7HL8mMfR5F~~H93S1XH81AQqISUZellauXbd1pGRb24r1ruIucQ6Y0Ai3SXJvvnxquJweX9rdHyK4QD1BNGvXKC1xaIZhi1U57vHOQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
+  opacity: 1;
+}
+.node-319154 {
+  position: absolute;
+  width: 95px;
+  height: 99px;
+  top: 1880px;
+  left: 553px;
+  opacity: 1;
+  z-index: 9;
+  transform: rotate(0deg);
+  overflow: hidden;
+  border-radius: 0px 0px 0px 0px;
+}
+.node-319189 {
+  position: absolute;
+  width: 1271px;
+  height: 458px;
+  top: 8194px;
+  left: 15px;
+  opacity: 1;
+  z-index: 14;
+  transform: rotate(0deg);
+  border-radius: 49px 49px 49px 49px;
+  background: linear-gradient(134.14deg, #00ff85ff 0%, #08f0ffff 100%);
+}
+.nodeBg-319193 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: transparent;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url("https://s3-alpha-sig.figma.com/img/e5b8/17c3/38eadd60008dea01737db3c930dce057?Expires=1704672000&Signature=CbqA7PEvXrKoWZb1gp4yh4v3KnBv-Y4UH6Yp806bqPJRFDIUZ8qh-pq9BSevmae28yR7lx2EtJOlF4~sxfo~qJX593LK8ffSmty6letI~DNqu86df0VHQidZuZGeLOMKrpVw4gxWaniMdZavXSJNjKfE4oS1cxQJ3uZvgpXrrXwZOhHPABDwA40iX5GxSq7GXSeAWEGHF4M3ZNWjocU4ztitlsPk7c3B7u1KfMmsQ6OZCg4HXExLJqp5vyjkeC0TwrlQXw6equaR7clzSsmmZJpJ1MYNyo2GAsdU~bzjdUmdUfmKRjqyA0s3uyMzbtA0Wo-p38V1KGRNKJER3~4-Cg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
+  opacity: 1;
+}
+.node-319193 {
+  position: absolute;
+  width: 243.04348754882812px;
+  height: 421px;
+  top: 2419px;
+  left: 236.5277862548828px;
+  opacity: 1;
+  z-index: 18;
+  transform: rotate(0deg);
+  overflow: hidden;
+  border-radius: 65px 65px 65px 65px;
+}
+.node-319206 {
+  position: absolute;
+  width: 1452.209716796875px;
+  height: 21.849040985107422px;
+  top: 10755.923226551444px;
+  left: 0.001963119085985454px;
+  opacity: 1;
+  z-index: 22;
+  transform: rotate(0.01020137683668886deg);
+  border-radius: 0px 0px 0px 0px;
+  background: linear-gradient(90.11deg, #00fe8cff 0%, #ffffffff 100%);
+}
+.nodeBg-319211 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: transparent;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url("https://s3-alpha-sig.figma.com/img/1c56/f30e/61878cc46695de2e15099c3256a236d9?Expires=1704672000&Signature=B40J1S10gcYVSdfeIVSo54~q5PfdcZgTY0GeJgCD030iyxl4R5FDmpWDJuJma5v2hhU3jWC9NyUfRkV5moGkOyQcuuk~1vUQZWHZ6bZY1LTwz9JgFcZEFTMxwkwOzyxkMM5zUkS9jLY1XzEhC9TVuhSn3rdlua21-kmn25vTGGRu0psse2pjfTnQbaRP9bhZbWjZatt3Dj2PDwjmhwG7pLLzzqaicE-2L0gJVits~AHi2~BsNKAIXa0MSRuIXVuDjLfSdxQA2ss3n5gz0o2FwlqPAwZeTT2OPNZz58EZQJUKKmb6sScCudUi4LKh2Ilv0f7ZjDdkBf3Tj5zA2VogrQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
+  opacity: 1;
+}
+.node-319211 {
+  position: absolute;
+  width: 511.98260498046875px;
+  height: 402px;
+  top: 4964px;
+  left: 124.39205932617188px;
+  opacity: 1;
+  z-index: 27;
+  transform: rotate(0deg);
+  overflow: hidden;
+  border-radius: 64px 64px 64px 64px;
+}
+.nodeBg-319214 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: transparent;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url("https://s3-alpha-sig.figma.com/img/a227/4f6e/d9ee0066e3e61a08a47fce2eed5d05e1?Expires=1704672000&Signature=dDOz3EnNyRQSYbtcUlBiW5OgM0iV9NGTdovAEy7-wwlAIqh5jhWM9UlLLFWs7bLUQS3ZXrCv8hD3z1l-Bhnt8gE6e-0dTvSoOFJ4IZdZlW5ZIAXbkFVQokNVU33NK0RKDtatjBAXZWKnLilXJAf8JBgsyoqSWwOWiSssFhbcUE0Aesw8ZlYJNA4~gDJecEXxgQqaJ71F0KI5vHeqvCsA4RliLWLltz6cZ3UZs~6Yu~gQWVdhAaJUfQq~GJOGWYld2S8rjVsLHmXVgRVlr9cd4GTrwgWutMMgHNdwjid3H9G3Bvai74W45mtxQIqLjayfLZ2l1zJVqBFoP7xJ9HOxeA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
+  opacity: 1;
+}
+.node-319214 {
+  position: absolute;
+  width: 465px;
+  height: 465px;
+  top: 6601px;
+  left: 779px;
+  opacity: 1;
+  z-index: 30;
+  transform: rotate(0deg);
+  overflow: hidden;
+  border-radius: 63px 63px 63px 63px;
+}
+.nodeBg-319221 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: transparent;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url("https://s3-alpha-sig.figma.com/img/524d/1dae/1b59e46e0504ddf1b891104b70229341?Expires=1704672000&Signature=OmyHNlOMuXLwqPG3qDRxLielfJAJF62uCkol5ifWXfGi3A~GMqND3NZ~Sc280EnwzLzNl~gttn-newi7hO~18hg-NS~cktS6Vut4TdPW3N8ITZqGCQDBo8QaARx6ISQeY5vj1fKt~TuLlLESKV0R8NbCTAsYJqNAAq295BRRZKneCN6NTfZeuaQASvuXby0Vtf~VDJvYVW~KIVkI2eNv5y5CVNrRMsb6Myw-ksqnn~AedDXblQcxgXnPheam1T7DfMz06-hcw2zYXasIrQ8ZIypjQYxPcGhPRiON-oMK2GKtqrRtphetKQRWqQFHN4NbbyG5OIR6ecV6WuNU8Z~A9w__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
+  opacity: 1;
+}
+.node-319221 {
+  position: absolute;
+  width: 479.1759948730469px;
+  height: 342px;
+  top: 5489px;
+  left: 729px;
+  opacity: 1;
+  z-index: 37;
+  transform: rotate(0deg);
+  overflow: hidden;
+  border-radius: 65px 65px 65px 65px;
+}
+.nodeBg-319223 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: transparent;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url("https://s3-alpha-sig.figma.com/img/2d29/7006/a60f3bd88fd53958fd50623550b7abf5?Expires=1704672000&Signature=Cj4eRsiCCTd7d6wE9i09-6hCeXkz3s~5rDFqHSoS1YjjPLgyB0~lpaxJx4ZZ~zlP6sBL1Vn6YKr56K9pOqGYKlJhUMapz2xo3dQSg60102ZbCFy0khomAWwUGhzP9UtUvfk-KFpFkIcutFGV0XSrr9NTprqXskEeTNMkmo1rrrN1CjvZUbYmP59imsGTw50sXNEqERS5X901dBHezquPjzBUdJ7SKvA7byk~lWm5Ov7gOMCUH3QWHGC9XceXAgUZ9V4ZeuluuF6TlZTzJSb0OuXQV2PRWil02-C1SKoMkqi59YZCk3adJpLKC9B2ID6VMWba72PAWhcEaCIGe7UMfw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
+  opacity: 1;
+}
+.node-319223 {
+  position: absolute;
+  width: 539.1261596679688px;
+  height: 407px;
+  top: 6016px;
+  left: 90px;
+  opacity: 1;
+  z-index: 39;
+  transform: rotate(0deg);
+  overflow: hidden;
+  border-radius: 65px 65px 65px 65px;
+}
+.node-319141 {
+  position: absolute;
+  width: 1040px;
+  height: 270.72320556640625px;
+  top: 508px;
+  left: 130px;
+  opacity: 1;
+  z-index: 3;
+  transform: rotate(0deg);
+  text-align: center;
+  line-height: 0px;
+}
+.node-319141-0 {
+  font-size: 39px;
+  font-family: Montserrat Alternates;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: none;
+
+  line-height: 27.5px;
+  color: #ffffffff;
+}
+
+.node-319145 {
+  position: absolute;
+  width: 916.4940795898438px;
+  height: 65.67047882080078px;
+  top: 1434.584228515625px;
+  left: 192.00006103515625px;
+  opacity: 1;
+  z-index: 5;
+  transform: rotate(0deg);
+  text-align: center;
+  line-height: 0px;
+}
+.node-319145-0 {
+  font-size: 19px;
+  font-family: Aclonica;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: none;
+
+  line-height: 27.5px;
+  color: #ffffffff;
+}
+
+.node-319155 {
+  position: absolute;
+  width: 850px;
+  height: 92px;
+  top: 1538.584228515625px;
+  left: 225px;
+  opacity: 1;
+  z-index: 10;
+  transform: rotate(0deg);
+  text-align: center;
+  line-height: 0px;
+}
+.node-319155-0 {
+  font-size: 31px;
+  font-family: Aclonica;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: none;
+
+  line-height: 27.5px;
+  color: #ffffffff;
+}
+
+.node-319156 {
+  position: absolute;
+  width: 511px;
+  height: 102px;
+  top: 1746.584228515625px;
+  left: 395px;
+  opacity: 1;
+  z-index: 11;
+  transform: rotate(0deg);
+  text-align: center;
+  line-height: 0px;
+}
+.node-319156-0 {
+  font-size: 31px;
+  font-family: Aclonica;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: none;
+
+  line-height: 27.5px;
+  color: #ffffffff;
+}
+
+.node-319188 {
+  position: absolute;
+  width: 350px;
+  height: 60px;
+  top: 8095px;
+  left: 475px;
+  opacity: 1;
+  z-index: 13;
+  transform: rotate(0deg);
+  text-align: center;
+  line-height: 0px;
+}
+.node-319188-0 {
+  font-size: 40px;
+  font-family: Convergence;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: none;
+
+  line-height: 27.5px;
+  color: #ffffffff;
+}
+
+.node-319190 {
+  position: absolute;
+  width: 885.4633178710938px;
+  height: 154px;
+  top: 8303px;
+  left: 219.0927734375px;
+  opacity: 1;
+  z-index: 15;
+  transform: rotate(0deg);
+  text-align: center;
+  line-height: 0px;
+}
+.node-319190-0 {
+  font-size: 40px;
+  font-family: Outfit;
+  font-weight: 700;
+
+  text-decoration: none;
+  text-transform: none;
+
+  line-height: 27.5px;
+  color: #ffffffff;
+}
+
+.node-319191 {
+  position: absolute;
+  width: 715.9966430664062px;
+  height: 90px;
+  top: 8476px;
+  left: 250.44390869140625px;
+  opacity: 1;
+  z-index: 16;
+  transform: rotate(0deg);
+  text-align: center;
+  line-height: 0px;
+}
+.node-319191-0 {
+  font-size: 40px;
+  font-family: Bruno Ace SC;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: none;
+
+  line-height: 27.5px;
+  background: linear-gradient(257.79deg, #08f1f8ff 0%, #00fe8cff 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.node-319194 {
+  position: absolute;
+  width: 238.07615661621094px;
+  height: 57.92554473876953px;
+  top: 2985px;
+  left: 303.60247802734375px;
+  opacity: 1;
+  z-index: 19;
+  transform: rotate(0deg);
+  text-align: left;
+  line-height: 0px;
+}
+.node-319194-0 {
+  font-size: 40px;
+  font-family: Aclonica;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: none;
+
+  line-height: 27.5px;
+  color: #edededff;
+}
+
+.node-319195 {
+  position: absolute;
+  width: 142.25784301757812px;
+  height: 122.74698638916016px;
+  top: 4089px;
+  left: 260px;
+  opacity: 1;
+  z-index: 20;
+  transform: rotate(0deg);
+  text-align: left;
+  line-height: 0px;
+}
+.node-319195-0 {
+  font-size: 40px;
+  font-family: Aclonica;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: none;
+
+  line-height: 27.5px;
+  color: #e9eceaff;
+}
+
+.node-319207 {
+  position: absolute;
+  width: 96.83685302734375px;
+  height: 42.70798873901367px;
+  top: 229.09673282531767px;
+  left: 846.8441833367172px;
+  opacity: 1;
+  z-index: 23;
+  transform: rotate(0.11451220960809867deg);
+  text-align: left;
+  line-height: 0px;
+}
+.node-319207-0 {
+  font-size: 29px;
+  font-family: Righteous;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: none;
+
+  line-height: 27.5px;
+  color: #fffcfcff;
+}
+
+.node-319208 {
+  position: absolute;
+  width: 96.88728332519531px;
+  height: 66.84188842773438px;
+  top: 229.0967623625213px;
+  left: 957.7863469884395px;
+  opacity: 1;
+  z-index: 24;
+  transform: rotate(0.11451220960809867deg);
+  text-align: left;
+  line-height: 0px;
+}
+.node-319208-0 {
+  font-size: 29px;
+  font-family: Righteous;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: none;
+
+  line-height: 27.5px;
+  color: #fffcfcff;
+}
+
+.node-319209 {
+  position: absolute;
+  width: 141.63438415527344px;
+  height: 66.84188842773438px;
+  top: 229.14147844961332px;
+  left: 1068.82798999243px;
+  opacity: 1;
+  z-index: 25;
+  transform: rotate(0.11451220960809867deg);
+  text-align: left;
+  line-height: 0px;
+}
+.node-319209-0 {
+  font-size: 29px;
+  font-family: Righteous;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: none;
+
+  line-height: 27.5px;
+  color: #fffcfcff;
+}
+
+.node-319210 {
+  position: absolute;
+  width: 357.6343688964844px;
+  height: 207.7328643798828px;
+  top: 159.67760467780852px;
+  left: 152.09008359123743px;
+  opacity: 1;
+  z-index: 26;
+  transform: rotate(0.21712937252527723deg);
+  text-align: center;
+  line-height: 0px;
+}
+.node-319210-0 {
+  font-size: 95px;
+  font-family: Righteous;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: none;
+
+  line-height: 75px;
+  color: #ffffffff;
+}
+
+.node-319212 {
+  position: absolute;
+  width: 1114.7591552734375px;
+  height: 112px;
+  top: 4783px;
+  left: 123.4176025390625px;
+  opacity: 1;
+  z-index: 28;
+  transform: rotate(0deg);
+  text-align: center;
+  line-height: 0px;
+}
+.node-319212-0 {
+  font-size: 40px;
+  font-family: Aclonica;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: none;
+
+  line-height: 27.5px;
+  color: #ffffffff;
+}
+
+.node-319213 {
+  position: absolute;
+  width: 545.728271484375px;
+  height: 459px;
+  top: 4918px;
+  left: 662px;
+  opacity: 1;
+  z-index: 29;
+  transform: rotate(0deg);
+  text-align: left;
+  line-height: 0px;
+}
+.node-319213-0 {
+  font-size: 21px;
+  font-family: Shippori Antique;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: none;
+
+  line-height: 27.5px;
+  color: #ffffffff;
+}
+
+.node-319215 {
+  position: absolute;
+  width: 261.0595397949219px;
+  height: 92px;
+  top: 7066px;
+  left: 914.3737182617188px;
+  opacity: 1;
+  z-index: 31;
+  transform: rotate(0deg);
+  text-align: center;
+  line-height: 0px;
+}
+.node-319215-0 {
+  font-size: 40px;
+  font-family: Aclonica;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: none;
+
+  line-height: 27.5px;
+  color: #ffffffff;
+}
+
+.node-319216 {
+  position: absolute;
+  width: 501px;
+  height: 645px;
+  top: 5929px;
+  left: 692px;
+  opacity: 1;
+  z-index: 32;
+  transform: rotate(0deg);
+  text-align: left;
+  line-height: 0px;
+}
+.node-319216-0 {
+  font-size: 21px;
+  font-family: Shippori Antique;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: none;
+
+  line-height: 27.5px;
+  color: #ffffffff;
+}
+
+.node-319217 {
+  position: absolute;
+  width: 622px;
+  height: 804px;
+  top: 6434px;
+  left: 107px;
+  opacity: 1;
+  z-index: 33;
+  transform: rotate(0deg);
+  text-align: left;
+  line-height: 0px;
+}
+.node-319217-0 {
+  font-size: 25px;
+  font-family: Shippori Antique;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: none;
+
+  line-height: 27.5px;
+  color: #ffffffff;
+}
+
+.node-319218 {
+  position: absolute;
+  width: 232.2029571533203px;
+  height: 102.3340072631836px;
+  top: 5866px;
+  left: 880px;
+  opacity: 1;
+  z-index: 34;
+  transform: rotate(0deg);
+  text-align: center;
+  line-height: 0px;
+}
+.node-319218-0 {
+  font-size: 40px;
+  font-family: Aclonica;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: none;
+
+  line-height: 27.5px;
+  color: #ffffffff;
+}
+
+.node-319219 {
+  position: absolute;
+  width: 371.7563171386719px;
+  height: 48.6772575378418px;
+  top: 5377px;
+  left: 203px;
+  opacity: 1;
+  z-index: 35;
+  transform: rotate(0deg);
+  text-align: center;
+  line-height: 0px;
+}
+.node-319219-0 {
+  font-size: 40px;
+  font-family: Aclonica;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: none;
+
+  line-height: 27.5px;
+  color: #ffffffff;
+}
+
+.node-319220 {
+  position: absolute;
+  width: 305.40887451171875px;
+  height: 50.58616638183594px;
+  top: 6434px;
+  left: 240px;
+  opacity: 1;
+  z-index: 36;
+  transform: rotate(0deg);
+  text-align: center;
+  line-height: 0px;
+}
+.node-319220-0 {
+  font-size: 40px;
+  font-family: Aclonica;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: none;
+
+  line-height: 27.5px;
+  color: #ffffffff;
+}
+
+.node-319222 {
+  position: absolute;
+  width: 357px;
+  height: 583px;
+  top: 5423px;
+  left: 218px;
+  opacity: 1;
+  z-index: 38;
+  transform: rotate(0deg);
+  text-align: left;
+  line-height: 0px;
+}
+.node-319222-0 {
+  font-size: 21px;
+  font-family: Shippori Antique;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: none;
+
+  line-height: 27.5px;
+  color: #ffffffff;
+}
+
+.node-319321 {
+  position: absolute;
+  width: 249px;
+  height: 56px;
+  top: 2407px;
+  left: 740px;
+  opacity: 1;
+  z-index: 41;
+  transform: rotate(0deg);
+  text-align: center;
+  line-height: 0px;
+}
+.node-319321-0 {
+  font-size: 39px;
+  font-family: Aclonica;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: none;
+
+  line-height: 27.5px;
+  color: #ffffffff;
+}
+
+.node-319224 {
+  position: absolute;
+  width: 856px;
+  height: 61px;
+  top: 8535px;
+  left: 222px;
+  opacity: 1;
+  z-index: 40;
+  transform: rotate(0deg);
+  border-radius: 50px 50px 50px 50px;
+  background: #0e0e1aff;
+  box-shadow: 0px 0px 60px 0px rgba(31, 76, 101, 1);
+}
+.node-319225 {
+  position: absolute;
+  width: 254px;
+  height: 85px;
+  top: -13px;
+  left: 301px;
+  opacity: 1;
+  z-index: 0;
+  transform: rotate(0deg);
+  text-align: center;
+  line-height: 0px;
+  mix-blend-mode: normal;
+}
+.node-319225-0 {
+  font-size: 18.200000762939453px;
+  font-family: Outfit;
+  font-weight: 700;
+
+  text-decoration: none;
+  text-transform: uppercase;
+
+  line-height: 19.200000762939453px;
+  color: #eaeaeaff;
+}
+
+.node-319146 {
+  position: absolute;
+  width: 816.86669921875px;
+  height: 116px;
+  top: 1631px;
+  left: 242px;
+  opacity: 1;
+  z-index: 6;
+  transform: rotate(0deg);
+}
+.node-319147 {
+  position: absolute;
+  width: 816.86669921875px;
+  height: 116px;
+  top: 0px;
+  left: 0px;
+  opacity: 1;
+  z-index: 0;
+  transform: rotate(0deg);
+  border-radius: 80px 80px 80px 80px;
+  background: linear-gradient(180deg, #00b1e9ff 0%, #c4c4c400 100%);
+}
+.nodeBg-319148 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: transparent;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url("https://s3-alpha-sig.figma.com/img/0286/c861/ed418282f89c70fec565f3975009d136?Expires=1704672000&Signature=dJihHVIl-r06ogWYtlwFvx~lxBSFWBXh2a0MMwCXPrdtwxmWrCoMpna9sZcvgCD9CDbfeoXYnvoo4fKWoQjazbIUqi3Caj6XSNmt8vrTIP6lM1xFx49C-oF5n1mRimcxApCSx4poKIt8Ivwmo-w9HJY-sX-K0XsR5pDuPSSwtwmYOj9q~dGGJHXvC-SFjvFRVdx8LGFbia66EEKXP0ERFwPZwtRKHgp4y52T4anaWYcc7BzMD-XMC3IwbkgX~duPqxy1yn2XvNJBwIPqLXpMC6pSXAyM0Xej2gVmxhZASstF1VO5oXSlD~Cb-1HFa1nT5bHcoWDar0-mA3dEeGTfBg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
+  opacity: 1;
+}
+.node-319148 {
+  position: absolute;
+  width: 171.42129516601562px;
+  height: 27.148937225341797px;
+  top: 41.9573974609375px;
+  left: 292.1405029296875px;
+  opacity: 1;
+  z-index: 1;
+  transform: rotate(0deg);
+  overflow: hidden;
+  border-radius: 80px 80px 80px 80px;
+}
+.nodeBg-319149 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: transparent;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url("https://s3-alpha-sig.figma.com/img/07a2/744c/b2418f7f3547952cd9d59e913fbafb69?Expires=1704672000&Signature=WT9aBu61I0W-k7sSTLnK2MTLO7eRtni0PW6thZ5tpwYR3LFqrJDDUKfhq009rhnqjuhLiB8uDvQ4HYocN2kDschKa9uStBt0LsXZo8zau0kWOpxhQl6GIr3fVA8pCboCHubswKqVcHwbYeLR6SuQVcS6TgPQWcmBzN1Y0~6NAn7dbrzgoxG24WhsUBftWfcQKsYWHDwFG2dbrS6X7eqH5rRMpCmH1-L4WFWvYcf2iq8B2SvC5xBqAgD~SuYeVR7Up3pLuH9NI79rwyjIxZdrjLuQzfBIW1~qLrE4D9rGld5y40V8OKy7Uo2FRvCWiP1gWyr7bvA4jXkZXWRFiSUjQQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
+  opacity: 1;
+}
+.node-319149 {
+  position: absolute;
+  width: 192.34596252441406px;
+  height: 72.39716339111328px;
+  top: 18.9219970703125px;
+  left: 30.582138061523438px;
+  opacity: 1;
+  z-index: 2;
+  transform: rotate(0deg);
+  overflow: hidden;
+  border-radius: 80px 80px 80px 80px;
+}
+.nodeBg-319150 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: transparent;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url("https://s3-alpha-sig.figma.com/img/cfe4/5f2e/3f5ef15ecd22f74a1e7b984f254c6ffa?Expires=1704672000&Signature=YcCv6kkThCMZ4jsr8mB08LtjC0GZphwnbTA0QlUhK0BuxwBOVDKMsF2uRuj2TazM2QD5pxIr7MbwiiICf9AAI8-W1W5RwsTlxeDpin-veJL6ZCl2WQgNrKqLI3-V9K6d4wyinihd3dZLUhoOaV4ADBIIIge82BY8YiIZprPwdgzm1WjG1-9pBOA2lzirIIaKrIwpkxvpOX~bXw0TJo0e4Gb2GQ6vE5jIxsHXCVXj7NEuUfmlF3xMllhMw2GXbaFZxCS-MELoiFtySIUFe3BdvPfSDA--mi-5wTjCKXvjIv1Ph-FlqmoUvcs1kixJZMflftMRTTHruthagauZTfYb4Q__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
+  opacity: 1;
+}
+.node-319150 {
+  position: absolute;
+  width: 69.21235656738281px;
+  height: 38.666664123535156px;
+  top: 36.1986083984375px;
+  left: 530.3598022460938px;
+  opacity: 1;
+  z-index: 3;
+  transform: rotate(0deg);
+  overflow: hidden;
+  border-radius: 80px 80px 80px 80px;
+}
+.nodeBg-319151 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: transparent;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url("https://s3-alpha-sig.figma.com/img/f142/9cf7/5d5879ff590350ec2dc370b18abb3853?Expires=1704672000&Signature=AQY6cqArgGPkS4WdebmWjtWnsbUNm2apuLkgmGyf59sZKweeeOAUFXHcaubjlBdzb64noW2az3mWm61wcrWr2Nl3W7uZUQ7V2sTxWi3SpUGFwra0VQv8T~1jCAi9q3ceHnmsrzanOCtMB3uqUvzLpNJ1LZJW-Eq2vrUWZs215RNWC~4ChnRED9vZbhR4IHSu25cEiq4SizZ0IbQvw6sZmMnzOaRdeof3eHOwz3gQL5WO8IY1yxvIgNLTIYAI5DL1PCf~-DWEFH-0qfec66UgUjx8HOtvSn~c4IyDjCgttGQtv~OiKagIgUwJ~PiKWw1zRMidwvVeG0JRPBgXWM2lGw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
+  opacity: 1;
+}
+.node-319151 {
+  position: absolute;
+  width: 116.69525909423828px;
+  height: 30.439714431762695px;
+  top: 40.31207275390625px;
+  left: 672.003662109375px;
+  opacity: 1;
+  z-index: 4;
+  transform: rotate(0deg);
+  overflow: hidden;
+  border-radius: 80px 80px 80px 80px;
+}
+.node-319196 {
+  position: absolute;
+  width: 1640px;
+  height: 2519px;
+  top: 2135px;
+  left: -106px;
+  opacity: 1;
+  z-index: 21;
+  transform: rotate(0deg);
+}
+.nodeBg-319198 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: transparent;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url("https://s3-alpha-sig.figma.com/img/ffac/4f14/9d998a86945fed4c391f938a6d5062a6?Expires=1704672000&Signature=fqluXtk3aFgW0iR7mhKiXJ7sNkThC9LH908Lc0QDRG6dHS9FXqz5Cg~WzDxE7XmsnDXw9DEiwZjF0w5e76xL-8O-ohKG2FeNxDlYJ89GFXMjb2QfFo9qhf9vbMCz~ixt2kx8CwM48m0qBZ3tvbtAXaBz1T9e3QfFpCmdEg6ITEebZ0Kfs7BbhLbVBC2mPITxX83UJPKrNSpI5E5W3yEkUz1E36XsG3qbHgghoHhjFsRzvfNDSSSyHYXPMFmB6nX26JbcOgsH5llNj~9tl0VdyBBHcYXjii76LOp6Vzm~fdjz1~8NcAAgHwglhM~lCuaMHRXn-f1TaNd6F9XeIrKkxw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
+  opacity: 1;
+}
+.node-319198 {
+  position: absolute;
+  width: 503.2049255371094px;
+  height: 400px;
+  top: 843px;
+  left: 828.8281860351562px;
+  opacity: 1;
+  z-index: 1;
+  transform: rotate(0deg);
+  overflow: hidden;
+  border-radius: 68px 68px 68px 68px;
+}
+.nodeBg-319201 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: transparent;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url("https://s3-alpha-sig.figma.com/img/05d9/bb66/98862fc3ad7a87408b9bedc1d8df0380?Expires=1704672000&Signature=bfpTFucB8ARTH2IcEee7gYe6u7gSVvpmx8ORUGLCtaISNQfg6ZOkug-GE~NZ-9kkh1~9gytKKpk1lXaYCQIPplotiB5awHL-LusUzrOGyXEaV~Q03-sPrTJs6NFPKGRt1ubJFvuWZkIo9y5e9HAAHxIz7~RIvAq8vTCJkuy4lP0PvgND0tJGuK-PcS5KqMmrqeo1F6~qH6pt2UaUfcwSWuLhervydjhnkgCZm1Nt8KAwWxTNPRjYCqGA99hmLyiorqJ1NpE~LTkdy1Mxv5J4aWVWMO8CQG65Fl~jKhDqYbAlf-PmqPQ1R7TOpeYitLgCxOYlaOG~LVGMIzUIjRjZXw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
+  opacity: 1;
+}
+.node-319201 {
+  position: absolute;
+  width: 509.38470458984375px;
+  height: 385px;
+  top: 1456px;
+  left: 319.4438781738281px;
+  opacity: 1;
+  z-index: 4;
+  transform: rotate(0deg);
+  overflow: hidden;
+  border-radius: 64px 64px 64px 64px;
+}
+.nodeBg-319204 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: transparent;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url("https://s3-alpha-sig.figma.com/img/2476/7487/248088711da2e82ce5dcc30f19b2b507?Expires=1704672000&Signature=p~X0y3KjRQqdiBErC5GMTVfcab~yMORRS3upoMipLD~3ysc0lB2MyUCdoWJ7HnYC--Dac9JBcu8TgxZ6naEQpYmdyaBDECMUEUCJ1R6XS1hUWbakaXxbBsCyXbPcrZC5Hgjr7~Z4kD8UpbMBKVjPnQUGp81Ld0wQ-jWHR8IpvVtW-2IUsHRfyf-ITbZmiGFRs5Xw34VZ9ukuM~jzU5D0aaz3tJc3jMyAmtGoHC73ADLf7knB5NpnzGd-GCAiXPOZiPkaovMNtKZwgPFN96F2ngDN-7uU98OYgYreUSg6MeWYHjxSMOcemaDl9OE7ZpK397d5g5REMlwX91w6V2sXmQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
+  opacity: 1;
+}
+.node-319204 {
+  position: absolute;
+  width: 486.43145751953125px;
+  height: 467px;
+  top: 2034px;
+  left: 797.928955078125px;
+  opacity: 1;
+  z-index: 7;
+  transform: rotate(0deg);
+  overflow: hidden;
+  border-radius: 66px 66px 66px 66px;
+}
+.node-319197 {
+  position: absolute;
+  width: 457.2615661621094px;
+  height: 293px;
+  top: 352px;
+  left: 744.077880859375px;
+  opacity: 1;
+  z-index: 0;
+  transform: rotate(0deg);
+  text-align: left;
+  line-height: 0px;
+}
+.node-319197-0 {
+  font-size: 19px;
+  font-family: Shippori Antique;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: none;
+
+  line-height: 27.5px;
+  color: #ffffffff;
+}
+
+.node-319199 {
+  position: absolute;
+  width: 403.46612548828125px;
+  height: 1565px;
+  top: 277px;
+  left: 338.8656005859375px;
+  opacity: 1;
+  z-index: 2;
+  transform: rotate(0deg);
+  text-align: left;
+  line-height: 0px;
+}
+.node-319199-0 {
+  font-size: 19px;
+  font-family: Shippori Antique;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: none;
+
+  line-height: 27.5px;
+  color: #ffffffff;
+}
+
+.node-319200 {
+  position: absolute;
+  width: 362.4870300292969px;
+  height: 164.53500366210938px;
+  top: 1419px;
+  left: 914.46142578125px;
+  opacity: 1;
+  z-index: 3;
+  transform: rotate(0deg);
+  text-align: left;
+  line-height: 0px;
+}
+.node-319200-0 {
+  font-size: 40px;
+  font-family: Aclonica;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: none;
+
+  line-height: 27.5px;
+  color: #ffffffff;
+}
+
+.node-319202 {
+  position: absolute;
+  width: 392.0517272949219px;
+  height: 646.9217529296875px;
+  top: 1397px;
+  left: 905.6322021484375px;
+  opacity: 1;
+  z-index: 5;
+  transform: rotate(0deg);
+  text-align: left;
+  line-height: 0px;
+}
+.node-319202-0 {
+  font-size: 19px;
+  font-family: Shippori Antique;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: none;
+
+  line-height: 27.5px;
+  color: #ffffffff;
+}
+
+.node-319203 {
+  position: absolute;
+  width: 454.4301452636719px;
+  height: 503px;
+  top: 2016px;
+  left: 325.6233215332031px;
+  opacity: 1;
+  z-index: 6;
+  transform: rotate(0deg);
+  text-align: left;
+  line-height: 0px;
+}
+.node-319203-0 {
+  font-size: 19px;
+  font-family: Shippori Antique;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: none;
+
+  line-height: 27.5px;
+  color: #f5f8f7ff;
+}
+
+.node-319205 {
+  position: absolute;
+  width: 1640px;
+  height: 272px;
+  top: 0px;
+  left: 0px;
+  opacity: 1;
+  z-index: 8;
+  transform: rotate(0deg);
+  text-align: center;
+  line-height: 0px;
+}
+.node-319205-0 {
+  font-size: 39px;
+  font-family: Aclonica;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: none;
+
+  line-height: 27.5px;
+  color: #ffffffff;
+}
+.nodeBg-319143 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: transparent;
+  background-size: contain;
+  background-image: url(https://firebasestorage.googleapis.com/v0/b/figma-plugin-a7287.appspot.com/o/user-images%2F31-dec-2023%2Fpratyay%2Fimage-319-143.png?alt=media&token=0);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.node-319143 {
+  position: absolute;
+  width: 1300px;
+  height: 10774px;
+  top: 4px;
+  left: 0px;
+  opacity: 1;
+  z-index: 0;
+  overflow: hidden;
+}
+.nodeBg-319142 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: transparent;
+  background-size: contain;
+  background-image: url(https://firebasestorage.googleapis.com/v0/b/figma-plugin-a7287.appspot.com/o/user-images%2F31-dec-2023%2Fpratyay%2Fimage-319-142.png?alt=media&token=0);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.node-319142 {
+  position: absolute;
+  width: 1300px;
+  height: 10778px;
+  top: 0px;
+  left: 0px;
+  opacity: 1;
+  z-index: 1;
+  overflow: hidden;
+}
+.nodeBg-319140 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  opacity: 1;
+  background-color: transparent;
+  background-size: contain;
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAQSURBVHgBAQUA+v8AUgL/gAPRAdTGUU7sAAAAAElFTkSuQmCC);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.node-319140 {
+  position: absolute;
+  width: 96.35132598876953px;
+  height: 128.23599243164062px;
+  top: 608.7999877929688px;
+  left: 190.70169067382812px;
+  opacity: 1;
+  z-index: 2;
+  overflow: hidden;
+}
+.nodeBg-319192 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  opacity: 1;
+  background-color: transparent;
+  background-size: contain;
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD8AAAAmCAYAAABzhkOMAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAPNSURBVHgB3VlNUlsxDJZMGFi14Qa5Aey7gSP0BAUO0LJtpzPNTEv3PQHlBj1B4Qj0BHCCJrtCyzxVsi1b9gvwSFbON5Pnn/f880myLDsILYE+7wO4CcC/S8DpDawIB62ATj/xdH9y5gxg8xroyxtYEQgtgKZjgNEsTJf4h/wgKRwCfjyHJdGI5rfG8kTPHEk1xul3oK9LW0Ab5PH9DT8vhTky5ZgS+Ze0tADaWfNw/5qJXgWzp1SL3v6XE0Aba17h1/7mBef2tCZ4AcKQOvYBHwb7gLbIC5IAKAqgoCAr4mioABoy+wicznmfP+DcVfT6IL8sAlkCw7bB9sgLvADuWQD0SzQfiOddgPODfEB7Zm+RfcAu5CAAgiuQIj7qA9rUvCItAbEAoesdH+pyQIkGH1kCbWteUThBpeQjwZhfbAHrQV4QQmCzDVohCPrbYNtmb5GcIF4hOMLIWvIhlSVQOsH10bzCWEAMgQ1HkUO2ABbI6TuAbgeihDiPIW9TRV229RD6gw4ehu1XYcv1mE5nDP12WleMr/XC5230+hQ9oA+FyZwGEen0mismZWPUZ5KcHCdCB2jq9D3F79F8Q5XnSQ6oKGvj/D1W44YJV+PG1uR9uv0+ePlw6NEOqXB+WugOXJpC/KGXFPVEQV546RwdJyynK0ptKbaj0josqVTGFJ35yaV5RiJZonnGiFnglgXFd1R6+NAmJyoYrXMno427Vzykk+YhRqRoJZI6OxRUhOI39SKgJJL4knrLJM8IKdNIGogfsfaISKM3NWFDO4xvzAfLIcrR6il0fwG353TNhUn1ilK4nBVqZ1t0iYWMqlGsaqjq345j+zH1qlI/NuV83dbME3vtacEcCQ5GXPENHbxkPxU6cmK1skMYcVFerKlK33e+0zQJKTqXCnrjEAbWvq0QENRHYmHPYNqZKnTlYV7Hydu5F86YiydSS1HIkiYBODi8fYGXPZNsHeMZje8QLlgCu4VlZB95dLvDBx8AWCvySpxZ7RH0LdcSF6wN+aTxfMtToiIuGMEawJp62tRK59YjLmhe89bUpazRTgpWOjheRFywAQ1DiXdymRH2Ybv1ye/odoznD7VvVvOeOLCpO3+LA5Vnf9DULZok/6hzQx9LHD9FPHzaGBYSl/sritFnCGDOh/TV1GVGQTxe2BUQUx9IXNCM5pfZx59CM5r/g3CmGk+VmP6nejbx0LwFsNa3EH4jmJMmxFMmDl/jNZqJ8FCj8/AMJ7QViDeF7RlN+e6h4x9tzWnG5UNYEU1tdUx4n5PJNsCP+Q7OYUX8B1z48rFa3KSRAAAAAElFTkSuQmCC);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.node-319192 {
+  position: absolute;
+  width: 62.66064453125px;
+  height: 36.8193359375px;
+  top: 8502.59033203125px;
+  left: 763.08056640625px;
+  opacity: 1;
+  z-index: 17;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+.nodeBg-319157 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: transparent;
+  background-size: contain;
+  background-image: url(https://firebasestorage.googleapis.com/v0/b/figma-plugin-a7287.appspot.com/o/user-images%2F31-dec-2023%2Fpratyay%2Fimage-319-157.png?alt=media&token=0);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.node-319157 {
+  position: absolute;
+  width: 140px;
+  height: 140px;
+  top: 9099px;
+  left: 400px;
+  opacity: 0;
+  z-index: 12;
+  overflow: hidden;
+}
+
